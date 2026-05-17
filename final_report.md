@@ -1,7 +1,7 @@
 # Reducing Time-to-Target Accuracy in Vision Transformers through Systems Optimization and Knowledge Distillation
 
 
-## Ayush Tripathi, Sai Minnal, Mayank Deoras
+## Sai Minnal
 
 
 ---
