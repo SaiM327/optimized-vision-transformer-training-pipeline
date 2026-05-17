@@ -1,7 +1,6 @@
 # Reducing Time-to-Target Accuracy in Vision Transformers through Systems Optimization and Knowledge Distillation
 
 
-## Sai Minnal
 
 
 ---
